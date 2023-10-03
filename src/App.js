@@ -10,7 +10,7 @@ function App() {
           Sito internet ufficiale
         </p>
         <p>
-          Versione 0.0.1
+          Versione 0.0.3
         </p>
         <a
           className="App-link"

@@ -26,3 +26,6 @@ Deploy the app updating the firebase website
 firebase login
 firebase init --project <projectID>
 firebase deploy
+
+remember to build the app before deploy running
+npm run build
