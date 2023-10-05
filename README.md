@@ -31,5 +31,6 @@ remember to build the app before deploy running
 npm run build
 
 ## TODO: 
-- You can provide a way better UX than this when your app throws errors by providing your own ErrorBoundary or errorElement prop on your route.
 - SEO friendly
+- version number
+- coockie warning
